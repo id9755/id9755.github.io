@@ -13,7 +13,7 @@ body {
   justify-content: center;
   position: relative;
   z-index: 1;
-  background: url(../img/pcbg.webp) no-repeat center;
+  background: url(https://img20.360buyimg.com/openfeedback/jfs/t1/276273/16/28464/57458/680eb958F5f976dd6/be43bcae72ab1f81.webp) no-repeat center;
   background-size: cover;
 }
 .page-center {
@@ -346,7 +346,7 @@ a:hover {
   }
 
   .page-mark {
-    background: url(../img/bg.png) no-repeat center;
+    background: url(https://img20.360buyimg.com/openfeedback/jfs/t1/291655/1/657/22330/680eb96dFf1dd896a/a9ebb93b596a8b5f.png) no-repeat center;
     opacity: 0.2;
     position: fixed;
     left: 0px;
